@@ -1,4 +1,4 @@
-# buildPalindrome
+# election winners
 
 ### Difficulty: Medium ###
 
