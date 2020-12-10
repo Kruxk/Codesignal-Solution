@@ -1,0 +1,1 @@
+isMAC48Address = inputString => /^([0-9A-F]{2}-){5}[0-9A-F]{2}$/.test(inputString)
